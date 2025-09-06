@@ -1,2 +1,5 @@
 maltego_trx
 maigret
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+reportlab>=3.6.13 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
